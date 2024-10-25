@@ -8,3 +8,10 @@ This project performs log file analysis for potential threats by parsing logs an
    ```bash
    git clone https://github.com/ourdarkchemistry/Log-Parser-Threat-Analyzer
    cd Log-Parser-Threat-Analyzer
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+- **Email:** ourdarkchemistry@gmail.com
+- **GitHub:** https://github.com/ourdarkchemistry
